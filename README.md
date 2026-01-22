@@ -3,7 +3,7 @@
 A **beginner-friendly Flutter Question Bank** with 200+ interview questions and **concise 2–3 line answers** to help you prepare and quickly recap Flutter concepts for job interviews.
 
 ## About
-Hi, I’m a Flutter developer and I’ve faced many of these questions myself in interviews. This repository contains a **PDF file** with 200+ commonly asked Flutter interview questions, each accompanied by **short, easy-to-understand answers** covering topics like:
+Hi, I’m a Flutter developer and I’ve faced many of these questions myself in interviews. This repository contains a **PDF file** with 200+ commonly asked Flutter interview questions, each accompanied by **short, easy-to-understand answers** covering topics like:-
 
 - Flutter Widgets & Layouts  
 - State Management  
