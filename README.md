@@ -20,7 +20,7 @@ Built from real interviews. Designed for fast revision.
 
 ---
 
-## 👋 Why This Exists
+##  Why This Exists
 
 I'm a Flutter developer who has sat through dozens of interviews — on both sides of the table. The same questions kept coming up, so I compiled them into **short 2–3 line answers** built for last-minute revision.
 
@@ -28,7 +28,7 @@ This isn't a textbook. It's a **cheat sheet built from real interview experience
 
 ---
 
-## 📥 Quick Start
+##  Quick Start
 
 | File | Questions | Best For |
 |------|-----------|----------|
@@ -39,7 +39,7 @@ This isn't a textbook. It's a **cheat sheet built from real interview experience
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 ### PDF 1 — Core Flutter (Q1–Q200)
 
@@ -80,7 +80,7 @@ This isn't a textbook. It's a **cheat sheet built from real interview experience
 
 ---
 
-## 🧠 How to Prepare
+##  How to Prepare
 
 A PDF alone won't get you the job — **how you use it matters**.
 
@@ -93,7 +93,7 @@ A PDF alone won't get you the job — **how you use it matters**.
 **Ongoing · Grow Your Own Bank**
 > Every time you face a new question in an interview, add it here via a PR. The best question banks are the ones the community builds together.
 
-### 💡 Pro Tips
+###  Pro Tips
 
 - **Pair with code.** For any question about widgets or state management, build a 20-line example — reading about `InheritedWidget` is not the same as using one.
 - **Explain to someone else.** If you can teach it simply, you understand it.
@@ -102,7 +102,7 @@ A PDF alone won't get you the job — **how you use it matters**.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This project gets better with every contribution.
 
@@ -121,20 +121,20 @@ This project gets better with every contribution.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If this helped you land an interview or revise faster, consider giving the repo a **star** — it helps other developers discover it.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Akanshu Jamwal**
 [![GitHub](https://img.shields.io/badge/GitHub-akanshujamwal-181717?logo=github)](https://github.com/akanshujamwal/FlutterQBank)
 
 ---
 
-## 📄 License
+##  License
 
 Licensed under the [MIT License](LICENSE) — use it, share it, build on it.
 
